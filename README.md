@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-I'm a Full Stack Software Engineer. I build web/mobile things. I've been building Angular, React.js, React Native, Node.js projects.
+I'm a Software Engineer. I build web/mobile things. I've been building Angular 8+,Javascript,Java(Spring Boot) projects as well as learning and currently working on React.js,React Native,Node.js.
 
 ⭐️ You can also find me on [Instagram](https://www.instagram.com/mesauravpanda/) and [Codepen](https://codepen.io/mesauravpanda). 
